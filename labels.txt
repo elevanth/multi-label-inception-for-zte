@@ -1,0 +1,6 @@
+man
+woman
+hat
+glass
+mask
+tmglass
